@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="78344263fs"></ZoomEndTime>
+      <Cursor1Time time="32016000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Imem/read_address" type="array">
+      <obj_property name="ElementShortName">read_address[31:0]</obj_property>
+      <obj_property name="ObjectShortName">read_address[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Imem/instruction_output" type="array">
+      <obj_property name="ElementShortName">instruction_output[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction_output[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/RegWrite" type="logic">
+      <obj_property name="ElementShortName">RegWrite</obj_property>
+      <obj_property name="ObjectShortName">RegWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/RS1" type="array">
+      <obj_property name="ElementShortName">RS1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RS1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/RS2" type="array">
+      <obj_property name="ElementShortName">RS2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RS2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/Rd" type="array">
+      <obj_property name="ElementShortName">Rd[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Rd[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/Write_data" type="array">
+      <obj_property name="ElementShortName">Write_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Write_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/read_data1" type="array">
+      <obj_property name="ElementShortName">read_data1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">read_data1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uut/Register/read_data2" type="array">
+      <obj_property name="ElementShortName">read_data2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">read_data2[31:0]</obj_property>
+   </wvobject>
+</wave_config>

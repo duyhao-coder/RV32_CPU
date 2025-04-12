@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Duy/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sim_1/new/lab1_tb.v,1736412305,verilog,,,,tb,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sim_1/new/testbench.v,1738836615,verilog,,,,main_tb,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/ALU.v,1738897381,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/Dmem.v,,ALU;ALU_Control,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/Dmem.v,1738897381,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/Imem.v,,Data_Memory,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/Imem.v,1741180655,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/MUX.v,,Instruction_Memory;immediate_generator,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/MUX.v,1738897381,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/PC.v,,MUX2to1;MUX2to1_DataMemory;pc_mux,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/PC.v,1738897381,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/Register.v,,pc_adder;program_counter,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/Register.v,1740988516,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/control.v,,Register_File,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/control.v,1738897381,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/main.v,,main_control_unit,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/lab1.v,1736582135,verilog,,C:/Users/Duy/project_1/project_1.srcs/sim_1/new/lab1_tb.v,,gates,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/main.v,1738836573,verilog,,C:/Users/Duy/project_1/project_1.srcs/sources_1/new/operator.v,,main,,,,,,,,
+C:/Users/Duy/project_1/project_1.srcs/sources_1/new/operator.v,1738830874,verilog,,C:/Users/Duy/project_1/project_1.srcs/sim_1/new/testbench.v,,Branch_Adder,,,,,,,,
