@@ -33,8 +33,6 @@ Tải và cài đặt Vivado từ trang chính thức của Xilinx 🌐.
 🖥️ Mô phỏng:
 
 Mở Vivado và chạy script mô phỏng:vivado -mode batch -source scripts/simulate.tcl
-
-
 Kiểm tra kết quả trong giao diện Vivado hoặc tệp log 📊.
 
 
@@ -42,7 +40,6 @@ Kiểm tra kết quả trong giao diện Vivado hoặc tệp log 📊.
 
 Sử dụng các testbench trong tests/ để xác minh chức năng CPU 🧪.
 Testbench được viết bằng [Verilog/VHDL] và chạy trực tiếp trong Vivado.
-
 
 
 📂 Cấu trúc thư mục
